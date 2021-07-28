@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87b84210-080f-46a6-812a-9a20842e39ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/healthycoderapp/ActivityCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/healthycoderapp/ActivityCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/healthycoderapp/DietPlannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/diet-recommended-input-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/RealEstateApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/src/main/java/com/realestateapp/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/src/main/java/com/realestateapp/ApartmentRater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/src/main/java/com/realestateapp/RandomApartmentGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RealEstateApp/src/test/java/com/realestateapp/ApartmentRaterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/healthycoderapp/BMICalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/healthycoderapp/BMICalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1vvEGTSG7JfNEoIGeV84zW0zD0f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/healthycoderapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\User\Documents\GitHub\Udemy-JUnit5\HealthyCoderApp\src\test\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.healthycoderapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ActivityCalculatorTest">
+    <configuration name="ActivityCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.ActivityCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivityCalculatorTest.should_ReturnBad_When_AvgBelow20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.ActivityCalculatorTest" />
+      <option name="METHOD_NAME" value="should_ReturnBad_When_AvgBelow20" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BMICalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.BMICalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BMICalculatorTest.should_ReturnCoderWithWorstBMIIn1Ms_When_CoderListHas1000Elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.BMICalculatorTest" />
+      <option name="METHOD_NAME" value="should_ReturnCoderWithWorstBMIIn1Ms_When_CoderListHas1000Elements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DietPlannerTest.should_ReturnCorrectDiePlan_When_CorrectCoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.DietPlannerTest" />
+      <option name="METHOD_NAME" value="should_ReturnCorrectDiePlan_When_CorrectCoder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ActivityCalculatorTest" />
+        <item itemvalue="JUnit.ActivityCalculatorTest.should_ReturnBad_When_AvgBelow20" />
+        <item itemvalue="JUnit.BMICalculatorTest" />
+        <item itemvalue="JUnit.BMICalculatorTest.should_ReturnCoderWithWorstBMIIn1Ms_When_CoderListHas1000Elements" />
+        <item itemvalue="JUnit.DietPlannerTest.should_ReturnCorrectDiePlan_When_CorrectCoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87b84210-080f-46a6-812a-9a20842e39ce" name="Default Changelist" comment="" />
+      <created>1627434081394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627434081394</updated>
+      <workItem from="1627434082940" duration="7137000" />
+      <workItem from="1627442881721" duration="508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
